@@ -21,3 +21,4 @@ attack(enemy, player)
 
 print(player)
 print(enemy)
+print('Value')
